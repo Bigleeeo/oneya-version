@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.0",
   "minVersion": "1.0",
-  "downloadURL": "https://github.com/Bigleeeo/oneya/releases",
-  "releaseNotes": "OneYe 1.0 首版发布"
+  "downloadURL": "https://github.com/Bigleeeo/oneya/releases/tag/v1.0",
+  "releaseNotes": "OneYe 1.0 首版发布\n\n功能：主页看板、待办笔记、旅行计划、家人健康（经期追踪）、宝贝成长（WHO曲线+疫苗+里程碑）、AI健康助手、生日提醒。\n\n安装方式：下载 OneYe.ipa 后用 AltStore / Sideloadly / ios-deploy 安装。"
 }
